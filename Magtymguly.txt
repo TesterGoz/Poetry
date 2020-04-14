@@ -19,3 +19,5 @@ Author of the poem is Magtymguly
 Importance of Teamwork
 A teamwork environment promotes an atmosphere that fosters friendship and loyalty. These close-knit relationships motivate employees in parallel and align them to work harder, cooperate and be supportive of one another. Individuals possess diverse talents, weaknesses, communication skills, strengths, and habits.
 For sure dilligence matters in teamwork!
+
+This is forked from original TesterGoz project.
